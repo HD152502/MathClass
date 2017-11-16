@@ -1,0 +1,61 @@
+body {
+	background-image: url("/WebClass/image/sp.png");
+	background-size: cover;
+}
+
+.modal {
+	transition: 2s;
+}
+
+h1 {
+	font-style: Cursive;
+}
+
+section {
+	padding: 100px 0 460px 0;
+}
+
+.sc{
+	padding: 100px 0 700px 0;
+}
+
+.white {
+	color : white
+}
+img.absolute{
+	position : absolute;
+	left:700px;
+	top:1200px;
+}
+.font{
+	font-size : 5em;
+}
+
+.text{
+	padding : 100px;
+}
+.ft{
+	background-color : white;
+}
+.pic{
+	width : 50%;
+	height : 600px;
+	padding-left:200px;
+	padding-right:200px;
+}
+.list{
+	padding-left:300px;
+	padding-right:200px;
+}
+.fade{
+	background-color: white;
+}
+.padr{
+	padding-right : 100px;
+}
+.padu{
+	padding-top : 100px;
+}
+div.container {
+	padding-top: 30px;
+}

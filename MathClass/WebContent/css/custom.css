@@ -1,0 +1,53 @@
+ div.container {
+ padding-top: 30px;
+ 
+ 
+ }
+ 
+ 
+.bg{
+	background: url(images/'/WebClass/image/wallpaper.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+	 font-size:5rem; 
+	text-align:center;
+	
+	
+}
+.d-block {
+    display: block !important;
+	margin-left: 300px;
+	width: 70%;
+	border-style: solid;
+	border-width: 3px;
+	border-color: lightgreen;
+}
+#buttons
+{
+	margin-top: 20px;
+	margin-left: 278px;
+	margin-bottom: 10px;
+}
+.t-block {
+	margin-left: 350px;
+}
+.muc {
+	font-family: 'Italianno', cursive;
+
+	background: -webkit-linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color:transparent;
+	padding-bottom: 50px;
+
+}
+.dream {
+	font-family: 'Roboto Slab', serif;
+}
+.mid{
+	margin-left: 50%;
+	transform: translate(-50%, 0);
+}
